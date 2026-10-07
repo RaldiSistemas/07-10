@@ -1,0 +1,16 @@
+{
+  "name": "Raldi Apontar",
+  "short_name": "Apontar",
+  "description": "Apontamento de produção — Raldi Móveis com Precisão",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#232428",
+  "theme_color": "#982424",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "https://i.postimg.cc/9MsBrnJd/app-icone.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "https://i.postimg.cc/9MsBrnJd/app-icone.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
